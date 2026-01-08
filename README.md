@@ -59,7 +59,7 @@ Classify it in real time
 
 View predicted complaint category
 
-#Screenshot of Final Output
+#3 Screenshot of Final Output
 --
 <img width="1366" height="625" alt="Screenshot (87057)" src="https://github.com/user-attachments/assets/7bf8184f-a1c2-4986-9ff3-339e8253b575" />
 
